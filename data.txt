@@ -1,0 +1,12 @@
+Aliia               ,monday friday
+
+John                ,friday    
+
+Wen                 ,friday    
+
+Bobby               ,monday friday
+
+Tori                ,thursday monday
+
+David               ,friday    
+
